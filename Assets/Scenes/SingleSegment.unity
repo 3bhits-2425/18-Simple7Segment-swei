@@ -252,7 +252,7 @@ MonoBehaviour:
   prefab: {fileID: 312562607216535062}
   myButton: {fileID: 1125676022}
   myCanvas: {fileID: 1708116791}
-  myCube: {fileID: 586573828}
+  myPanel: {fileID: 586573828}
 --- !u!4 &658335141
 Transform:
   m_ObjectHideFlags: 0
